@@ -1,6 +1,6 @@
 ## Instructions
-##Install Required Libraries:
 
+## Install Required Libraries.
 Make sure you have the required libraries installed:
 
 ```bash
